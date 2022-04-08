@@ -1,0 +1,1 @@
+Aplicación de consola interactiva de prueba
